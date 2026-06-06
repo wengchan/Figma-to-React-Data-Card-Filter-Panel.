@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/components/ui/button.tsx","./src/components/ui/card.tsx","./src/features/razor-catalog/types.ts","./src/features/razor-catalog/data/razors.ts","./src/features/razor-catalog/lib/selectors.ts","./src/features/razor-catalog/store/usecatalogstore.ts","./src/lib/utils.ts","./src/stores/counter-store.ts"],"version":"5.9.3"}
